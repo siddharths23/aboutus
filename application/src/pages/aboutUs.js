@@ -10,7 +10,7 @@ function AboutUsPage() {
       </div>
       <div className="introduction">
         <p>
-          Welcome to our page!! We are a group of computer science students who
+          Welcome to our page!!! We are a group of computer science students who
           are passionate about programming and technology. Get to know us by
           checking out our profiles below.
         </p>
