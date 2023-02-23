@@ -1,0 +1,54 @@
+/* Style the team members container */
+.team-members-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* Style the anchor tags as buttons */
+.team-members-container a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #0077ff;
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for anchor tags */
+.team-members-container a:hover {
+  background-color: #0066cc;
+}
+
+/* Style for page header */
+.page-header {
+  background-color: #0077ff;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style for page title */
+.page-title {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+/* Style for introduction paragraph */
+.introduction {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Style for team details */
+.team-details {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
